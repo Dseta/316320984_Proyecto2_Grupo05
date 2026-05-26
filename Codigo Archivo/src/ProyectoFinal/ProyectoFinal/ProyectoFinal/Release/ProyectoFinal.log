@@ -1,0 +1,67 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(537,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+proyecto.obj : error LNK2001: símbolo externo _glfwSwapBuffers sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glActiveTexture sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwSetFramebufferSizeCallback sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glDrawArrays sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glEnableVertexAttribArray sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glViewport sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glBlendFunc sin resolver
+proyecto.obj : error LNK2001: símbolo externo _aiGetMaterialTextureCount sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glDeleteShader sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glTexParameteri sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glGetProgramInfoLog sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwGetTime sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glGenVertexArrays sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glGetShaderInfoLog sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwGetKey sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glClearColor sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glGetShaderiv sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glBindVertexArray sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glUniform4fv sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glBufferData sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glCreateProgram sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glEnable sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwTerminate sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glGetUniformLocation sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glGenBuffers sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glGenTextures sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glUniform1i sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glCompileShader sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glCreateShader sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwPollEvents sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glClear sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwInit sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwSetWindowShouldClose sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwSetScrollCallback sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glDrawElements sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwCreateWindow sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glLinkProgram sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glPolygonMode sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwWindowHint sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwSetInputMode sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwMakeContextCurrent sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glGetProgramiv sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glUniform3fv sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glAttachShader sin resolver
+proyecto.obj : error LNK2001: símbolo externo _gladLoadGLLoader sin resolver
+proyecto.obj : error LNK2001: símbolo externo "__declspec(dllimport) class irrklang::ISoundEngine * __cdecl irrklang::createIrrKlangDevice(enum irrklang::E_SOUND_OUTPUT_DRIVER,int,char const *,char const *)" (__imp_?createIrrKlangDevice@irrklang@@YAPAVISoundEngine@1@W4E_SOUND_OUTPUT_DRIVER@1@HPBD1@Z) sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glDepthMask sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glUniformMatrix4fv sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glBindTexture sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glTexImage2D sin resolver
+proyecto.obj : error LNK2001: símbolo externo "public: char const * __thiscall Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QBEPBDXZ) sin resolver
+proyecto.obj : error LNK2001: símbolo externo "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@PBDI@Z) sin resolver
+proyecto.obj : error LNK2001: símbolo externo "public: __thiscall Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QAE@XZ) sin resolver
+proyecto.obj : error LNK2001: símbolo externo "public: __thiscall Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QAE@XZ) sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glBindBuffer sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glShaderSource sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glDisable sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwGetProcAddress sin resolver
+proyecto.obj : error LNK2001: símbolo externo _aiGetMaterialTexture sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwSetCursorPosCallback sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glGenerateMipmap sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glfwWindowShouldClose sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glUniform1f sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glVertexAttribPointer sin resolver
+proyecto.obj : error LNK2001: símbolo externo _glad_debug_glUseProgram sin resolver
+..\..\..\bin\ProyectoFinal.exe : fatal error LNK1120: 65 externos sin resolver
